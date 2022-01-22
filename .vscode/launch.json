@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FindMajors",
+            "request": "launch",
+            "mainClass": "simpledb.test.FindMajors",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMajorJBDC",
+            "request": "launch",
+            "mainClass": "simpledb.test.StudentMajorJBDC",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleIJ",
+            "request": "launch",
+            "mainClass": "simpledb.test.SimpleIJ",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeMajor",
+            "request": "launch",
+            "mainClass": "simpledb.test.ChangeMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMajor",
+            "request": "launch",
+            "mainClass": "simpledb.test.StudentMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateStudentDB",
+            "request": "launch",
+            "mainClass": "simpledb.test.CreateStudentDB",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "simpledb.server.StartServer"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleIJ",
+            "request": "launch",
+            "mainClass": "SimpleIJ",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMajorNoJDBC",
+            "request": "launch",
+            "mainClass": "StudentMajorNoJDBC",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeMajor",
+            "request": "launch",
+            "mainClass": "embedded.ChangeMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateStudentDB",
+            "request": "launch",
+            "mainClass": "embedded.CreateStudentDB",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMajors",
+            "request": "launch",
+            "mainClass": "embedded.FindMajors",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMajor",
+            "request": "launch",
+            "mainClass": "embedded.StudentMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeMajor(1)",
+            "request": "launch",
+            "mainClass": "network.ChangeMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateStudentDB(1)",
+            "request": "launch",
+            "mainClass": "network.CreateStudentDB",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMajors(1)",
+            "request": "launch",
+            "mainClass": "network.FindMajors",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentMajor(1)",
+            "request": "launch",
+            "mainClass": "network.StudentMajor",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch BufferFileTest",
+            "request": "launch",
+            "mainClass": "simpledb.buffer.BufferFileTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch BufferMgrTest",
+            "request": "launch",
+            "mainClass": "simpledb.buffer.BufferMgrTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch BufferTest",
+            "request": "launch",
+            "mainClass": "simpledb.buffer.BufferTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileTest",
+            "request": "launch",
+            "mainClass": "simpledb.file.FileTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFileTest",
+            "request": "launch",
+            "mainClass": "simpledb.file.JavaFileTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomAccessFileTest",
+            "request": "launch",
+            "mainClass": "simpledb.file.RandomAccessFileTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexRetrievalTest",
+            "request": "launch",
+            "mainClass": "simpledb.index.IndexRetrievalTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexUpdateTest",
+            "request": "launch",
+            "mainClass": "simpledb.index.IndexUpdateTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexJoinTest",
+            "request": "launch",
+            "mainClass": "simpledb.index.query.IndexJoinTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexSelectTest",
+            "request": "launch",
+            "mainClass": "simpledb.index.query.IndexSelectTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogTest",
+            "request": "launch",
+            "mainClass": "simpledb.log.LogTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch CatalogTest",
+            "request": "launch",
+            "mainClass": "simpledb.metadata.CatalogTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch MetadataMgrTest",
+            "request": "launch",
+            "mainClass": "simpledb.metadata.MetadataMgrTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch TableMgrTest",
+            "request": "launch",
+            "mainClass": "simpledb.metadata.TableMgrTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch LexerTest",
+            "request": "launch",
+            "mainClass": "simpledb.parse.LexerTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParserTest",
+            "request": "launch",
+            "mainClass": "simpledb.parse.ParserTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParserTestActions",
+            "request": "launch",
+            "mainClass": "simpledb.parse.ParserTestActions",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch PredParserTest",
+            "request": "launch",
+            "mainClass": "simpledb.parse.PredParserTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch TokenizerTest",
+            "request": "launch",
+            "mainClass": "simpledb.parse.TokenizerTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiTablePlanTest",
+            "request": "launch",
+            "mainClass": "simpledb.plan.MultiTablePlanTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlannerStudentTest",
+            "request": "launch",
+            "mainClass": "simpledb.plan.PlannerStudentTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlannerTest1",
+            "request": "launch",
+            "mainClass": "simpledb.plan.PlannerTest1",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlannerTest2",
+            "request": "launch",
+            "mainClass": "simpledb.plan.PlannerTest2",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleTablePlanTest",
+            "request": "launch",
+            "mainClass": "simpledb.plan.SingleTablePlanTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductTest",
+            "request": "launch",
+            "mainClass": "simpledb.query.ProductTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScanTest1",
+            "request": "launch",
+            "mainClass": "simpledb.query.ScanTest1",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScanTest2",
+            "request": "launch",
+            "mainClass": "simpledb.query.ScanTest2",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch LayoutTest",
+            "request": "launch",
+            "mainClass": "simpledb.record.LayoutTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecordTest",
+            "request": "launch",
+            "mainClass": "simpledb.record.RecordTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch TableScanTest",
+            "request": "launch",
+            "mainClass": "simpledb.record.TableScanTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch StartServer",
+            "request": "launch",
+            "mainClass": "simpledb.server.StartServer",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConcurrencyTest",
+            "request": "launch",
+            "mainClass": "simpledb.tx.ConcurrencyTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch TxTest",
+            "request": "launch",
+            "mainClass": "simpledb.tx.TxTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintLogFile",
+            "request": "launch",
+            "mainClass": "simpledb.tx.recovery.PrintLogFile",
+            "projectName": "SimpleDB_3.4_541ac51"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecoveryTest",
+            "request": "launch",
+            "mainClass": "simpledb.tx.recovery.RecoveryTest",
+            "projectName": "SimpleDB_3.4_541ac51"
+        }
+    ]
+}
